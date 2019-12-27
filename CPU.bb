@@ -1,3 +1,6 @@
+;; Copyright 2019 Maurice Montag
+;; See LICENSE file for more information
+
 Global VregArray[16]
 Global I ; I value
 Global PC ; program counter/ instruction pointer
