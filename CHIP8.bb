@@ -1,4 +1,5 @@
-
+;; Copyright 2019 Maurice Montag
+;; See LICENSE file for more information
 
 Include "CPU.bb"
 
